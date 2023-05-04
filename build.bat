@@ -1,0 +1,2 @@
+cd C:\Users\louis\Desktop\sp
+javac -d bin -cp bin;graphics.jar .\src\main\java\Base.java .\src\main\java\Ennemie.java .\src\main\java\Tower.java .\src\main\java\TowerDefense.java .\src\main\java\TowerDefenseHandler.java
