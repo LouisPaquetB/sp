@@ -20,5 +20,13 @@ public class Ennemie {
 
     }
 
+    public float get_reward(){
+        return reward;
+    }
+
+    public int get_health(){
+        return health;
+    }
+
 
 }
